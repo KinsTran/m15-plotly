@@ -26,6 +26,7 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
+I copy pasted this plot from the plotly website wooooooo
 ```{r, echo=FALSE, message=FALSE}
 library(plotly)
 df <- read.csv("https://raw.githubusercontent.com/plotly/datasets/master/2011_us_ag_exports.csv")
